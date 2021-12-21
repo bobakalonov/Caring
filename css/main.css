@@ -486,6 +486,10 @@ a {
   }
 }
 
+.login form .login-main .form-check {
+  padding: 0 !important;
+}
+
 #preloader {
   position: fixed;
   top: 0;
